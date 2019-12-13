@@ -1,4 +1,4 @@
-# Unity-Index
+# Uniy Know How
 Index of all useful links about unity and game making
 
 # Contents
